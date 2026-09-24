@@ -50,6 +50,15 @@ Once installed, just start a conversation. Say anything — "I need spiritual gu
 
 ---
 
+## Your Privacy
+
+This journey asks personal questions, so here's how your information is protected before you start:
+
+- **Only you can see your answers.** They stay inside your own Claude account. Shea Johnson, the creator, never sees your responses and has no access to your conversations. The skill is only a set of coaching instructions and doesn't send your answers anywhere.
+- **Where it's stored:** In the Claude app or on the website, the chat stays in your history until you delete it, or you can use an incognito chat so it's never saved there. In Claude Code, the conversation is saved as a file on your own computer.
+- **AI training:** Your account's **Settings → Privacy** controls whether your chats can be used to improve Claude.
+- **You're in control:** Skip any question, use a nickname, or keep answers general. Your guide will explain all of this again at the start and remind you how to delete the conversation at the end.
+
 ## Who This Is For
 
 - Anyone who wants to slow down and reconnect with themselves
