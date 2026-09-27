@@ -1,7 +1,9 @@
-# Powerhouse Entrepreneur Prompts: Vol. 2 — Spiritual Enlightenment
+# Powerhouse Entrepreneur Series: Vol. 2 — Spiritual Enlightenment
 
 **A free Claude skill by Shea Johnson | AI Business Coach**
 🌐 [www.mssheajohnson.com](https://www.mssheajohnson.com)
+
+> **Want to work with me directly?** [Book a strategy call](https://cal.com/mssheajohnson)
 
 ---
 
