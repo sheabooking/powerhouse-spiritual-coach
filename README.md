@@ -85,8 +85,8 @@ This is Volume 2 of the Powerhouse Entrepreneur Prompts series.
 
 - **Volume 1 — The Foundation**: [github.com/sheabooking/powerhouse-clarity-coach](https://github.com/sheabooking/powerhouse-clarity-coach) — live now
 - **Volume 2 — Spiritual Enlightenment** (this repo): The Inward Turn, The Release, The Alignment, The Expansion, The Integration
-- Volume 3 — Reinvention: coming soon
-- Volume 4 — Discipline & Consistency: coming soon
+- **Volume 3 — Self Reincarnation**: [github.com/sheabooking/powerhouse-reinvention-coach](https://github.com/sheabooking/powerhouse-reinvention-coach)
+- **Volume 4 — Discipline & Consistency**: [github.com/sheabooking/powerhouse-discipline-coach](https://github.com/sheabooking/powerhouse-discipline-coach)
 
 ---
 
